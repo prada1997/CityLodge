@@ -28,10 +28,17 @@ In order to run the Program follow the below commands for Command Prompt:
 
 $$$ City Lodge Menu $$$
 1: Add Room
+
 2: Rent Room
+
 3: Return Room
+
 4: Room Maintenance
+
 5: Complete Maintenance
+
 6: Display All Rooms
+
 7. Exit
+
 Enter your Choice:
